@@ -45,7 +45,7 @@ To build and run this project, you will need:
 #include <vector>
 
 int main() {
-    // Define a Sudoku puzzle (0 represents empty cells)
+    // Define a Sudoku puzzle (. represents empty cells)
     std::vector<std::vector<char>> sudokuTable = {
         {'.', '.', '.', '1', '2', '3', '.', '8', '.'},
         {'1', '.', '.', '.', '.', '.', '.', '3', '7'},
