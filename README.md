@@ -35,7 +35,6 @@ To build and run this project, you will need:
    mkdir build && cd build
    cmake ..
    cmake --build .
-   ## Example Usage
 
 ### Sample Code
 
