@@ -20,7 +20,6 @@ This project provides a C++23 implementation of a Sudoku solver that can solve s
 
 To build and run this project, you will need:
 
-- CMake (version 3.29 or higher)
 - A C++ compiler that supports C++23 (e.g., clang++, g++)
 - Git (optional, for cloning the repository)
 
